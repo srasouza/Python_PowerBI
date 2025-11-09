@@ -118,5 +118,5 @@ plt.show()
 ![Dashboard Python 2](46c28b54-ec7b-4376-82a7-a2760f09d00c.png)
 
 ### 🔹 Página Página 2
-![Dashboard Página 2](9581742e-Offf-4b23-a718-8d57063d0386.png)
+![Dashboard Página 2](9581742e-0fff-4b23-a718-8d57063d0386.png)
 
