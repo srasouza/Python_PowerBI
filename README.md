@@ -13,6 +13,12 @@ O arquivo [Python_powerbi.pbix](https://animaedu-my.sharepoint.com/:u:/r/persona
 
 Esses visuais permitem gerar análises estatísticas, dispersões, distribuições e correlações usando **matplotlib** e **seaborn** diretamente dentro do Power BI.
 
+## 🧠 Sobre o Projeto
+
+O objetivo deste projeto é demonstrar como o **Python pode ampliar o poder analítico do Power BI**, permitindo criar gráficos estatísticos, explorar distribuições, relações entre variáveis e análises mais avançadas.
+
+Foram utilizados scripts Python para gerar **8 visualizações**, incluindo:
+
 As páginas incluem gráficos como:
 - **Dispersão (scatterplot)** de Vendas x Lucro  
 - **Violinplot** e **Boxplot** por Região  
@@ -31,6 +37,18 @@ As páginas incluem gráficos como:
 | **Seaborn** | Gráficos estatísticos e visual aprimorado |
 
 ---
+## 📁 Estrutura do Repositório
+Python_PowerBI/
+│
+├── dashboards/
+│ └── [Python_powerbi.pbix](https://animaedu-my.sharepoint.com/:u:/r/personal/86475340502_ulife_com_br/Documents/Python_powerbi.pbix?csf=1&web=1&e=E3DitN)
+│
+├── imagens/
+│ ├── Página Python 1
+│ ├── Página Python 2
+│ └── Página Python 3
+│
+└── README.md
 
 ## 🚀 Como Usar
 
@@ -57,7 +75,7 @@ seaborn → para gráficos estatísticos (violinplot, heatmap, boxplot, pairplot
 
 ⚙️ O pandas já vem integrado ao Power BI, então não precisa instalá-lo manualmente.
 
-🪟 Passo a passo para instalar as bibliotecas
+## 🪟 Passo a passo para instalar as bibliotecas
 
 No menu Iniciar do Windows, digite “Prompt de Comando”.
 
@@ -65,14 +83,15 @@ Clique com o botão direito em “Prompt de Comando” e escolha “Executar com
 
 Na janela que abrir, digite o comando abaixo e pressione Enter:
 
+```
 py -m pip install matplotlib 
-
+```
 Aguarde até o processo terminar.
 
 Depois faça o mesmo com seaborn
-
+```
 py -m pip install seaborn
-
+```
 Quando aparecer a mensagem “Successfully installed”, significa que as bibliotecas foram instaladas corretamente ✅
 
 ## ✅ Teste dentro do Power BI
@@ -111,12 +130,12 @@ plt.show()
 
 ## 📸 Exemplos de Dashboards
 
-### 🔹 Página Python
+### 🔹 Página Python 1
 ![Dashboard Python](b5eaee51-92f1-4753-8681-08af4db1239c.png)
 
 ### 🔹 Página Python 2
 ![Dashboard Python 2](46c28b54-ec7b-4376-82a7-a2760f09d00c.png)
 
-### 🔹 Página Página 2
+### 🔹 Página Python 3
 ![Dashboard Página 2](9581742e-0fff-4b23-a718-8d57063d0386.png)
 
