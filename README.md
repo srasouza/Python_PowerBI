@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Design sem nome.png" width="100%" />
+</p>
+
 # 📊 Projeto de BI em Python e Power BI
 
 Este repositório contém um projeto de Business Intelligence (BI) desenvolvido com **Power BI** e **Python**, com o objetivo de integrar análises avançadas e visualizações interativas de dados.
