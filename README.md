@@ -100,7 +100,7 @@ plt.show()
 
 ### Antes
 
-![Gráfico adicional 1](./imagens/download.png)
+![Gráfico adicional 1](download.png)
 
 ### Depois
 ![Gráfico adicional 2](./imagens/download2.png)
