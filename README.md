@@ -9,8 +9,9 @@ Este repositório contém um projeto de Business Intelligence (BI) desenvolvido 
 ---
 ## 🧠 Sobre o Projeto
 
-O arquivo [📥 Baixar dashboard completo (.pbix)](Python_powerb_finalizado.pbix)
- contém **dashboards interativos** e páginas com visuais criados a partir de **scripts Python**.
+O [arquivo](Python_powerb_finalizado.pbix)* contém **dashboards interativos** e páginas com visuais criados a partir de **scripts Python**.
+
+*Pra baixar clique na seta ⬇️ no canto direito.
 
 Esses visuais permitem gerar análises estatísticas, dispersões, distribuições e correlações usando **matplotlib** e **seaborn** diretamente dentro do Power BI.
 
